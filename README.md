@@ -4,3 +4,6 @@ This is a sample toy project to see if i could apply the theoretical math enough
 2) sampling multiple points around same pixel, similar to adding more augments, mapping each to brightness to reduce jaggedness you might see
 3) Normalising lighting vector, non normalised ligting (rn) causes abrupt changes on every rotation, computinng L as dot product of unit normal and unit light diection changes this
 4) smooth brightness mapping, interpolating (will have to learn) between two characters based on fractional index or just expanding brightness string to include gradations more
+
+
+Open for input - 
